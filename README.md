@@ -1,11 +1,5 @@
 ## 项目简介
-槑槑是一款后台管理系统，它前端基于 [vue](https://cn.vuejs.org/) 和 [element-ui](https://element.eleme.cn/#/zh-CN) ，后端基于 node 的后端框架 [nestjs](https://docs.nestjs.cn/8/) ，数据库采用 mysql ，缓存采用 redis。
-
-
-## 在线体验
-  - [演示地址](http://www.zt-hf.com/meimei/#/index)
-  - [文档地址](https://87789771.github.io/#/)
-  - [码源地址](https://github.com/87789771/meimei-nestjs-admin)
+砚舟是一款后台管理系统，它前端基于 [vue](https://cn.vuejs.org/) 和 [element-ui](https://element.eleme.cn/#/zh-CN) ，后端基于 node 的后端框架 [nestjs](https://docs.nestjs.cn/8/) ，数据库采用 mysql ，缓存采用 redis。
 
 
 ## 技术要求
@@ -54,7 +48,7 @@
 ## 目录结构
 
 ```
-    meimei
+    yanzhou
     ├── public #静态文件
     │   └── upload                      #上传文件夹
     ├── src
@@ -99,18 +93,3 @@
     ├── tsconfig.json
     └── yarn.lock
 ```
-
-## 系统截图
- ![](http://42.192.136.154:3000/upload/github/1.png)
- ![](http://42.192.136.154:3000/upload/github/2.png)
- ![](http://42.192.136.154:3000/upload/github/3.png)
- ![](http://42.192.136.154:3000/upload/github/4.png)
- ![](http://42.192.136.154:3000/upload/github/5.png)
- ![](http://42.192.136.154:3000/upload/github/6.png)
- ![](http://42.192.136.154:3000/upload/github/7.png)
- ![](http://42.192.136.154:3000/upload/github/8.png)
- ![](http://42.192.136.154:3000/upload/github/9.png)
- ![](http://42.192.136.154:3000/upload/github/10.png)
- ![](http://42.192.136.154:3000/upload/github/11.png)
- ![](http://42.192.136.154:3000/upload/github/12.png)
- ![](http://42.192.136.154:3000/upload/github/13.png)
